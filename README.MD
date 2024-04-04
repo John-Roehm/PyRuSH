@@ -1,3 +1,15 @@
+# This is a fork of the original PyRuSH with potentially breaking changes intended for a VERY SPECIFIC USE-CASE.
+
+## In particular, the required SpaCy version has been upgraded to 3.7 in this fork to enable compatibility with SciSpacy and more modern SpaCy features
+## The implications of this change HAVE NOT BEEN FULLY EVALUATED
+
+
+
+
+# Documentation for original pyrush:
+
+
+
 # PyRuSH
 
 PyRuSH[jre] is the python interface to
