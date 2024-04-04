@@ -19,7 +19,7 @@ classifiers = [
 [tool.setuptools.dynamic]
 dependencies = {file = ["requirements.txt"]}
 version={file = "PyRuSH/VERSION"}
-readme={file = ['README.rst']}
+readme={file = ['README.MD']}
 
 [project.urls]
 Source = "https://github.com/medspacy/PyRuSH"
